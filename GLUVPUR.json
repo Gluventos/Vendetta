@@ -9,29 +9,15 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#756CD9"],
-    "HEADER_SECONDARY": ["#6F66CC"],
-    "INTERACTIVE_ACTIVE": ["#8C6EFF"],
-    "INTERACTIVE_NORMAL": ["#7059B3"],
-    "INTERACTIVE_MUTED": ["#4B458A"],
-    "BACKGROUND_ACCENT": ["#262626"],
-    "BACKGROUND_MENTIONED": ["#370F8060"],
-    "BACKGROUND_MESSAGE_HOVER": ["#1B0840"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#1A1A1A"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#141414"],
-    "BACKGROUND_PRIMARY": ["#121212"],
-    "BACKGROUND_SECONDARY": ["#141414"],
-    "BACKGROUND_SECONDARY_ALT": ["#0F0F0F"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#16063350"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#370F8050"],
-    "BACKGROUND_MODIFIER_HOVER": ["#0D0D0D"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#380E8060"],
-    "BACKGROUND_TERTIARY": ["#0F0F0F"],
-    "CHANNELS_DEFAULT": ["#635CB8"],
-    "CHANNEL_ICON": ["#756CD9"],
-    "CHAT_BACKGROUND": ["#121212"],
-    "TEXT_DANGER": ["#A12829"],
-    "TEXT_NORMAL": ["#DFE2E6"]
+    "HEADER_PRIMARY": ["#8506A9"],
+    "HEADER_SECONDARY": ["#8F30BF"],
+    "TEXT_NORMAL": ["#7F30BF"],
+    "TEXT_MUTED": ["#8C30BF"],
+    "TEXT_LINK": ["#9D30BF"],
+    "INTERACTIVE_NORMAL": ["#7C15A4"],
+    "INTERACTIVE_HOVER": ["#8818B4"],
+    "INTERACTIVE_ACTIVE": ["#941DC3"],
+    "INTERACTIVE_MUTED": ["#6F5181"]
   },
   "rawColors": {
     "BRAND_260": "#FAE6FA",
@@ -50,7 +36,7 @@
   },
   "background": {
     "blur": 0.6,
-    "url": "https://raw.githubusercontent.com/Gluventos/Vendetta/main/gluvbg.png",
+    "url": "https://raw.githubusercontent.com/Gluventos/Vendetta/main/gluvpurbg.jpg",
     "alpha": 1
   },
   "spec": 2
