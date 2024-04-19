@@ -18,7 +18,8 @@
     "INTERACTIVE_HOVER": ["#8818B4"],
     "INTERACTIVE_ACTIVE": ["#941DC3"],
     "INTERACTIVE_MUTED": ["#6F5181"],
-    "BACKGROUND_SECONDARY": "url": "https://raw.githubusercontent.com/Gluventos/Vendetta/main/BG.jpg"
+    "BACKGROUND_SECONDARY": ["#302138"],
+    "BACKGROUND_SECONDARY_ALT": ["#311f3d"]
   },
   "rawColors": {
     "BRAND_260": "#FAE6FA",
