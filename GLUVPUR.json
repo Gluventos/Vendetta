@@ -12,13 +12,13 @@
     "HEADER_PRIMARY": ["#ad17cf"],
     "HEADER_SECONDARY": ["#ad16c4"],
     "TEXT_NORMAL": ["#ad16c4"],
-    "TEXT_MUTED": ["#b12fe0"],
-    "TEXT_LINK": ["#aa43e6"],
+    "TEXT_MUTED": ["#c104d6"],
+    "TEXT_LINK": ["#c836f5"],
     "INTERACTIVE_NORMAL": ["#7C15A4"],
     "INTERACTIVE_HOVER": ["#8818B4"],
     "INTERACTIVE_ACTIVE": ["#941DC3"],
     "INTERACTIVE_MUTED": ["#6F5181"],
-    "BACKGROUND_SECONDARY": ["#3b265e"]
+    "BACKGROUND_SECONDARY": ["#2d1b40"]
   },
   "rawColors": {
     "BRAND_260": "#FAE6FA",
