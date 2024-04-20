@@ -24,12 +24,12 @@
     "BACKGROUND_TERTIARY": ["#3c1852"],
     "BACKGROUND_ACCENT": ["#3f2c4a"],
     "BG_BASE_PRIMARY": ["#372c4a"],
-    "BG_BACKDROP": ["#43355e"],
+    "BG_BACKDROP": ["#44394a"],
     "BACKGROUND_MODIFIER_SELECTED": ["#432e59"],
     "BACKGROUND_MODIFIER_ACCENT": ["#3d214a"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#4b2f52"],
-    "CARD_SECONDARY_BG": ["#43355e"],
-    "CARD_PRIMARY_BG": ["#43355e"],
+    "CARD_SECONDARY_BG": ["#44394a"],
+    "CARD_PRIMARY_BG": ["#44394a"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#7f10a1"],
     "CHANNEL_ICON": ["#be95cf"],
     "CHAT_BACKGROUND": ["#3f2c4a"]
@@ -43,12 +43,12 @@
     "PRIMARY_600": "#121212",
     "PRIMARY_630": "#141414",
     "PRIMARY_660": "#1F1F1F",
-    "PRIMARY_700": "#563173",
+    "PRIMARY_700": "#44394a",
     "PRIMARY_800": "#121212",
     "RED_400": "#C70C4D",
     "WHITE_500": "#ffffff",
     "YELLOW_300": "#411299",
-    "PLUM_20": "#563173"
+    "PLUM_20": "#44394a"
   },
   "background": {
     "blur": 0.6,
