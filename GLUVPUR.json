@@ -43,12 +43,12 @@
     "PRIMARY_600": "#121212",
     "PRIMARY_630": "#141414",
     "PRIMARY_660": "#1F1F1F",
-    "PRIMARY_700": "#44394a",
+    "PRIMARY_700": "#43355e",
     "PRIMARY_800": "#121212",
     "RED_400": "#C70C4D",
     "WHITE_500": "#ffffff",
     "YELLOW_300": "#411299",
-    "PLUM_20": "#44394a"
+    "PLUM_20": "#43355e"
   },
   "background": {
     "blur": 0.6,
