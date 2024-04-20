@@ -29,7 +29,8 @@
     "CARD_SECONDARY_BG": ["#291b38"],
     "CARD_PRIMARY_BG": ["#291b38"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#7f10a1"],
-    "CHANNEL_ICON": ["#be95cf"]
+    "CHANNEL_ICON": ["#be95cf"],
+    "BG_BASE_SECONDARY": ["#302138"]
   },
   "rawColors": {
     "BRAND_260": "#FAE6FA",
