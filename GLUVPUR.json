@@ -46,7 +46,10 @@
     "PLUM_6": "#ffabf8",
     "PLUM_22": "#dba4d7",
     "PLUM_11": "#a6688b",
-    "PLUM_9": "ffabf8"
+    "PLUM_9": "ffabf8",
+    "RED_400": "#a6688b",
+    "WHITE_500": "#b067b8",
+    "WHITE_630": "#a6688b"
   },
   "background": {
     "blur": 0.6,
