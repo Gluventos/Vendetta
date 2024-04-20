@@ -23,9 +23,9 @@
     "BACKGROUND_TERTIARY": ["#3c1852"],
     "BG_BASE_PRIMARY": ["#372c4a"],
     "BACKGROUND_MODIFIER_SELECTED": ["#432e59"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#381c45"],
+    "BACKGROUND_MODIFIER_ACCENT": ["en#3d214a"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#4b2f52"],
-    "CARD_SECONDARY_BG": ["#40244d"]
+    "CARD_SECONDARY_BG": ["#3a045c"]
   },
   "rawColors": {
     "BRAND_260": "#FAE6FA",
@@ -48,4 +48,4 @@
     "alpha": 1
   },
   "spec": 2
-}
+}.
