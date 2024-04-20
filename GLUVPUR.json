@@ -25,7 +25,7 @@
     "BACKGROUND_MODIFIER_SELECTED": ["#432e59"],
     "BACKGROUND_MODIFIER_ACCENT": ["en#3d214a"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#4b2f52"],
-    "CARD_SECONDARY_BG": ["#3a045c"]
+    "CARD_SECONDARY_BG": ["#291b38"]
   },
   "rawColors": {
     "BRAND_260": "#FAE6FA",
