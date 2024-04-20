@@ -9,7 +9,7 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#c979af"],
+    "HEADER_PRIMARY": ["#bc84c4"],
     "HEADER_SECONDARY": ["#c979af"],
     "TEXT_NORMAL": ["#be95cf"],
     "TEXT_MUTED": ["#996cab"],
@@ -29,7 +29,8 @@
     "CARD_SECONDARY_BG": ["#43355e"],
     "CARD_PRIMARY_BG": ["#43355e"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#7f10a1"],
-    "CHANNEL_ICON": ["#be95cf"]
+    "CHANNEL_ICON": ["#be95cf"],
+    "CHAT_BACKGROUND": ["#3f2c4a"]
   },
   "rawColors": {
     "BRAND_260": "#FAE6FA",
