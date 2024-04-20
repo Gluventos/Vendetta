@@ -43,8 +43,10 @@
     "BRAND_560": "#be95cf",
     "PLUM_1": "#d78cde",
     "PRIMARY_645": "#a6688b",
-    "PLUM_6": "#dba4d7",
-    "PLUM_22": "#dba4d7"
+    "PLUM_6": "#ffabf8",
+    "PLUM_22": "#dba4d7",
+    "PLUM_11": "#a6688b",
+    "PLUM_9": "ffabf8"
   },
   "background": {
     "blur": 0.6,
