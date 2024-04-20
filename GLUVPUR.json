@@ -50,7 +50,8 @@
     "RED_400": "#a6688b",
     "WHITE_500": "#b067b8",
     "WHITE_630": "#a6688b",
-    "PRIMARY_400": "#d164bb"
+    "PRIMARY_400": "#d164bb",
+    "PRIMARY_460": "#a6688b"
   },
   "background": {
     "blur": 0.6,
