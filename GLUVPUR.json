@@ -12,7 +12,7 @@
     "HEADER_PRIMARY": ["#ad17cf"],
     "HEADER_SECONDARY": ["#ad16c4"],
     "TEXT_NORMAL": ["#be95cf"],
-    "TEXT_MUTED": ["#c104d6"],
+    "TEXT_MUTED": ["#996cab"],
     "TEXT_LINK": ["#c836f5"],
     "INTERACTIVE_NORMAL": ["#7C15A4"],
     "INTERACTIVE_HOVER": ["#8818B4"],
@@ -25,7 +25,8 @@
     "BACKGROUND_MODIFIER_SELECTED": ["#432e59"],
     "BACKGROUND_MODIFIER_ACCENT": ["#3d214a"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#4b2f52"],
-    "CARD_SECONDARY_BG": ["#291b38"]
+    "CARD_SECONDARY_BG": ["#291b38"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#7f10a1"]
   },
   "rawColors": {
     "BRAND_260": "#FAE6FA",
