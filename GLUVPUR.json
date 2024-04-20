@@ -1,6 +1,6 @@
 {
   "name": "GluvPur",
-  "version": "1.2",
+  "version": "1.3",
   "description": "Purple theme",
   "authors": [
     {
@@ -16,7 +16,7 @@
     "TEXT_LINK": ["#c836f5"]
   },
   "rawColors": {
-    "PLUM_20": "#381e4d",
+    "PLUM_20": "#3c3245",
     "PLUM_6": "#ffabf8"
   },
   "background": {
