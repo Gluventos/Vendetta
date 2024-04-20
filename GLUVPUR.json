@@ -40,7 +40,10 @@
     "PLUM_20": "#43355e",
     "PLUM_13": "#a6688b",
     "PLUM_10": "#be95cf",
-    "BRAND_560": "be95cf"
+    "BRAND_560": "#be95cf",
+    "PLUM_1": "#d78cde",
+    "PRIMARY_645": "#a6688b",
+    "PLUM_6": "#be95cf"
   },
   "background": {
     "blur": 0.6,
