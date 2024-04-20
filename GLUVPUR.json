@@ -9,8 +9,8 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#ad17cf"],
-    "HEADER_SECONDARY": ["#ad16c4"],
+    "HEADER_PRIMARY": ["#923fab"],
+    "HEADER_SECONDARY": ["##9232a6"],
     "TEXT_NORMAL": ["#be95cf"],
     "TEXT_MUTED": ["#996cab"],
     "TEXT_LINK": ["#c836f5"],
@@ -22,10 +22,12 @@
     "BACKGROUND_SECONDARY_ALT": ["#432e59"],
     "BACKGROUND_TERTIARY": ["#3c1852"],
     "BG_BASE_PRIMARY": ["#372c4a"],
+    "BG_BACKDROP": ["#291b38"],
     "BACKGROUND_MODIFIER_SELECTED": ["#432e59"],
     "BACKGROUND_MODIFIER_ACCENT": ["#3d214a"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#4b2f52"],
     "CARD_SECONDARY_BG": ["#291b38"],
+    "CARD_PRIMARY_BG": ["#291b38"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#7f10a1"]
   },
   "rawColors": {
