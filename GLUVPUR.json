@@ -17,8 +17,8 @@
     "TEXT_MUTED": ["#694c7d"],
     "TEXT_LINK": ["#997db8"],
     "BACKGROUND_PRIMARY": ["#191629"],
-    "BACKGROUND_SECONDARY_ALT": ["#382a42"],
-    "BACKGROUND_MODIFIER_HOVER": ["#8e63ab"]
+    "BACKGROUND_SECONDARY_ALT": ["#292238"],
+    "BACKGROUND_MODIFIER_HOVER": ["#372745"]
   },
   "rawColors": {
     "PLUM_20": "#1d182b"
