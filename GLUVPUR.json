@@ -20,12 +20,13 @@
     "BACKGROUND_PRIMARY": ["#191629"],
     "BACKGROUND_SECONDARY_ALT": ["#2b233f"],
     "BACKGROUND_MODIFIER_HOVER": ["#372745"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#f00707"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#1b1624"],
     "CARD_SECONDARY_BG": ["#2d273d"],
     "CARD_PRIMARY_BG": ["#2d273d"]
   },
   "rawColors": {
-    "PLUM_20": "#1d182b"
+    "PLUM_20": "#1d182b",
+    "PRIMARY_360": "#d40202"
   },
   "background": {
     "blur": 0.6,
