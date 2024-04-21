@@ -14,9 +14,10 @@
     "INTERACTIVE_NORMAL": ["#643d70"],
     "INTERACTIVE_ACTIVE": ["#794d96"],
     "TEXT_NORMAL": ["#8e63ab"],
-    "TEXT_MUTED": ["#8d7ebd"],
+    "TEXT_MUTED": ["#996cab"],
     "TEXT_LINK": ["#c836f5"],
-    "BACKGROUND_PRIMARY": ["#8e63ab"]
+    "BACKGROUND_PRIMARY": ["#292040"],
+    "BACKGROUND_TERTIARY": ["#8e63ab"]
   },
   "rawColors": {
     "PLUM_20": "#1d182b"
