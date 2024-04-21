@@ -9,9 +9,10 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#9e55bd"],
+    "HEADER_PRIMARY": ["#80409c"],
     "HEADER_SECONDARY": ["#865799"],
     "INTERACTIVE_NORMAL": ["#643d70"],
+    "INTERACTIVE_ACTIVE": ["#794d96"],
     "TEXT_NORMAL": ["#be95cf"],
     "TEXT_MUTED": ["#996cab"],
     "TEXT_LINK": ["#c836f5"]
