@@ -9,17 +9,17 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#985fb0"],
+    "HEADER_PRIMARY": ["#784d8c"],
     "HEADER_SECONDARY": ["#865799"],
     "INTERACTIVE_NORMAL": ["#805694"],
     "INTERACTIVE_ACTIVE": ["#8e5799"],
     "TEXT_NORMAL": ["#8e63ab"],
-    "TEXT_MUTED": ["#764e8a"],
+    "TEXT_MUTED": ["#8c5f96"],
     "TEXT_LINK": ["#997db8"],
     "BACKGROUND_PRIMARY": ["#191629"],
-    "BACKGROUND_SECONDARY_ALT": ["#url": "https://raw.githubusercontent.com/Gluventos/Vendetta/main/BG3.jpg"],
+    "BACKGROUND_SECONDARY_ALT": ["2b233f"],
     "BACKGROUND_MODIFIER_HOVER": ["#372745"],
-    "CARD_SECONDARY_BG": ["#282245"]
+    "CARD_SECONDARY_BG": ["#2d273d"]
   },
   "rawColors": {
     "PLUM_20": "#1d182b"
