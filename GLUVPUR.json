@@ -16,14 +16,14 @@
     "TEXT_NORMAL": ["#8e63ab"],
     "TEXT_MUTED": ["#8d7ebd"],
     "TEXT_LINK": ["#c836f5"],
-    "BACKGROUND_PRIMARY": ["#1d182b"]
+    "BACKGROUND_PRIMARY": ["#8e63ab"]
   },
   "rawColors": {
     "PLUM_20": "#1d182b"
   },
   "background": {
     "blur": 0.6,
-    "url": "https://raw.githubusercontent.com/Gluventos/Vendetta/main/BG2.9.jpg",
+    "url": "https://raw.githubusercontent.com/Gluventos/Vendetta/main/BG3.jpg",
     "alpha": 1
   },
   "spec": 2
