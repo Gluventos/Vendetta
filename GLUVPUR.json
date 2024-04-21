@@ -9,17 +9,18 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#7a3e96"],
+    "HEADER_PRIMARY": ["#68387a"],
     "HEADER_SECONDARY": ["#865799"],
     "INTERACTIVE_NORMAL": ["#805694"],
     "INTERACTIVE_ACTIVE": ["#8e5799"],
     "TEXT_NORMAL": ["#8e63ab"],
-    "TEXT_MUTED": ["#a05ead"],
+    "TEXT_MUTED": ["#7f4991"],
     "TEXT_LINK": ["#997db8"],
     "BACKGROUND_PRIMARY": ["#191629"],
     "BACKGROUND_SECONDARY_ALT": ["2b233f"],
     "BACKGROUND_MODIFIER_HOVER": ["#372745"],
-    "CARD_SECONDARY_BG": ["#2d273d"]
+    "CARD_SECONDARY_BG": ["#2d273d"],
+    "CARD_PRIMARY_BG": ["#2d273d"]
   },
   "rawColors": {
     "PLUM_20": "#1d182b"
