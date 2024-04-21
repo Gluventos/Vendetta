@@ -17,7 +17,7 @@
     "TEXT_MUTED": ["#764e8a"],
     "TEXT_LINK": ["#997db8"],
     "BACKGROUND_PRIMARY": ["#191629"],
-    "BACKGROUND_SECONDARY_ALT": ["#2b233f"],
+    "BACKGROUND_SECONDARY_ALT": ["#url": "https://raw.githubusercontent.com/Gluventos/Vendetta/main/BG3.jpg"],
     "BACKGROUND_MODIFIER_HOVER": ["#372745"],
     "CARD_SECONDARY_BG": ["#282245"]
   },
