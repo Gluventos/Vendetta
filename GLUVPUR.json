@@ -14,8 +14,9 @@
     "INTERACTIVE_NORMAL": ["#643d70"],
     "INTERACTIVE_ACTIVE": ["#794d96"],
     "TEXT_NORMAL": ["#8e63ab"],
-    "TEXT_MUTED": ["#4e4d75"],
-    "TEXT_LINK": ["#c836f5"]
+    "TEXT_MUTED": ["#8d7ebd"],
+    "TEXT_LINK": ["#c836f5"],
+    "BACKGROUND_PRIMARY": ["#1d182b"]
   },
   "rawColors": {
     "PLUM_20": "#1d182b"
