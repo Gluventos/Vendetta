@@ -14,7 +14,7 @@
     "INTERACTIVE_NORMAL": ["#805694"],
     "INTERACTIVE_ACTIVE": ["#8e5799"],
     "INTERACTIVE_MUTED": ["#55315e"],
-    "TEXT_NORMAL": ["#a26fbf"],
+    "TEXT_NORMAL": ["#8c5ea6"],
     "TEXT_MUTED": ["#88568f"],
     "TEXT_LINK": ["#997db8"],
     "BACKGROUND_PRIMARY": ["#191629"],
