@@ -14,6 +14,7 @@
     "INTERACTIVE_NORMAL": ["#805694"],
     "INTERACTIVE_ACTIVE": ["#8e5799"],
     "INTERACTIVE_MUTED": ["#55315e"],
+    "INTERACTIVE_HOVER": ["#cf0202"],
     "TEXT_NORMAL": ["#9366ad"],
     "TEXT_MUTED": ["#88568f"],
     "TEXT_LINK": ["#997db8"],
@@ -22,14 +23,13 @@
     "BACKGROUND_MODIFIER_HOVER": ["#372745"],
     "BACKGROUND_SECONDARY": ["#291f30"],
     "BACKGROUND_MOBILE_SECONDARY": ["#1b1624"],
-    "CARD_SECONDARY_BG": ["#33264a"],
-    "CARD_PRIMARY_BG": ["#33264a"]
+    "CARD_SECONDARY_BG": ["#2b203d"],
+    "CARD_PRIMARY_BG": ["#2b203d"]
   },
   "rawColors": {
     "PLUM_1": "#ff0505",
     "PLUM_20": "#1d1c30",
-    "PRIMARY_360": "#47354d",
-    "PLUM_11": "#c20606"
+    "PRIMARY_360": "#47354d"
   },
   "background": {
     "blur": 0.6,
