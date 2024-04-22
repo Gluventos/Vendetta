@@ -26,8 +26,8 @@
   },
   "rawColors": {
     "PLUM_1": "#ff0505",
-    "PRIMARY_360": "#47354d",
-    "PRIMARY_400": "#55315e"
+    "PLUM_20": "#1d182b",
+    "PRIMARY_360": "#47354d"
   },
   "background": {
     "blur": 0.6,
