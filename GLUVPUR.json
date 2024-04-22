@@ -23,8 +23,8 @@
     "BACKGROUND_MODIFIER_HOVER": ["#372745"],
     "BACKGROUND_SECONDARY": ["#291f30"],
     "BACKGROUND_MOBILE_SECONDARY": ["#1b1624"],
-    "CARD_SECONDARY_BG": ["#2b203d"],
-    "CARD_PRIMARY_BG": ["#2b203d"]
+    "CARD_SECONDARY_BG": ["#2b223b"],
+    "CARD_PRIMARY_BG": ["#2b223b"]
   },
   "rawColors": {
     "PLUM_1": "#ff0505",
