@@ -22,13 +22,13 @@
     "BACKGROUND_MODIFIER_HOVER": ["#372745"],
     "BACKGROUND_SECONDARY": ["#291f30"],
     "BACKGROUND_MOBILE_SECONDARY": ["#1b1624"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#fa0505"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#2a2138"],
     "CARD_SECONDARY_BG": ["#2b223b"],
     "CARD_PRIMARY_BG": ["#2b223b"]
   },
   "rawColors": {
     "PLUM_1": "#ff0505",
-    "PLUM_20": "#2a2138",
+    "PLUM_20": "#1d1c30",
     "PRIMARY_360": "#47354d"
   },
   "background": {
