@@ -22,14 +22,14 @@
     "BACKGROUND_MODIFIER_HOVER": ["#372745"],
     "BACKGROUND_SECONDARY": ["#291f30"],
     "BACKGROUND_MOBILE_SECONDARY": ["#1b1624"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#c20606"],
-    "CARD_SECONDARY_BG": ["#2b223b"],
-    "CARD_PRIMARY_BG": ["#2b223b"]
+    "CARD_SECONDARY_BG": ["#33264a"],
+    "CARD_PRIMARY_BG": ["#33264a"]
   },
   "rawColors": {
     "PLUM_1": "#ff0505",
     "PLUM_20": "#1d1c30",
-    "PRIMARY_360": "#47354d"
+    "PRIMARY_360": "#47354d",
+    "PLUM_11": "#c20606"
   },
   "background": {
     "blur": 0.6,
