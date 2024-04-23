@@ -25,8 +25,9 @@
     "BACKGROUND_MODIFIER_ACCENT": ["#302642"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#251f33"],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#37294a"],
-    "CARD_SECONDARY_BG": ["#241f33"],
-    "CARD_PRIMARY_BG": ["#241f33"]
+    "CARD_SECONDARY_BG": ["#231c36"],
+    "CARD_PRIMARY_BG": ["#231c36"],
+    "CHANNEL_ICON": ["#ff0a0a"]
   },
   "rawColors": {
     "PLUM_1": "#ff0505",
