@@ -33,7 +33,8 @@
   "rawColors": {
     "PLUM_1": "#ff0505",
     "PLUM_20": "#1d1c30",
-    "PRIMARY_360": "#47354d"
+    "PRIMARY_360": "#47354d",
+    "BRAND_260": "#e80c0c"
   },
   "background": {
     "blur": 0.6,
