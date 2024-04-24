@@ -32,10 +32,11 @@
     "CHANNEL_ICON": ["#5b366b"]
   },
   "rawColors": {
+    "PLUM_6": "#825799"
     "PLUM_17": "#1e1b30",
     "PLUM_20": "#1d1c30",
     "PRIMARY_360": "#47354d",
-    "PRIMARY_400": "#fc0808",
+    "PRIMARY_400": "#2f2040",
     "PRIMARY_500": "#27203d",
     "PRIMARY_660": "#191629",
     "BRAND_260": "#251b36"
