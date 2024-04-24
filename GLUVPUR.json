@@ -17,7 +17,7 @@
     "TEXT_NORMAL": ["#9366ad"],
     "TEXT_MUTED": ["#72568f"],
     "TEXT_LINK": ["#997db8"],
-    "BACKGROUND_PRIMARY": ["#191629"],
+    "BACKGROUND_PRIMARY": ["#f00505"],
     "BACKGROUND_SECONDARY_ALT": ["#17101f"],
     "BACKGROUND_MESSAGE_HOVER": ["#d40606"],
     "BACKGROUND_MODIFIER_HOVER": ["#271f33"],
@@ -32,9 +32,10 @@
     "CHANNEL_ICON": ["#5b366b"]
   },
   "rawColors": {
+    "PLUM_17": "#191629",
     "PLUM_20": "#1d1c30",
     "PRIMARY_360": "#47354d",
-    "PRIMARY_660": "#f50202",
+    "PRIMARY_660": "#191629",
     "BRAND_260": "#251b36"
   },
   "background": {
