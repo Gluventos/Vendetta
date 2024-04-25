@@ -33,6 +33,7 @@
   },
   "rawColors": {
     "PLUM_6": "#b485d4",
+    "PLUM_9": "#7f5c94",
     "PLUM_11": "#3f2c57",
     "PLUM_17": "#1e1b30",
     "PLUM_20": "#1d1c30",
@@ -41,6 +42,7 @@
     "PRIMARY_360": "#47354d",
     "PRIMARY_400": "#2f2040",
     "PRIMARY_500": "#27203d",
+    "PRIMARY_560": "#cf0a0a",
     "PRIMARY_645": "#ff0808",
     "PRIMARY_660": "#191629"
   },
