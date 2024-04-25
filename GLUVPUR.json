@@ -43,8 +43,7 @@
     "PRIMARY_400": "#2f2040",
     "PRIMARY_500": "#27203d",
     "PRIMARY_645": "#ff0808",
-    "PRIMARY_660": "#191629",
-    "PRIMARY_700": "#70498f"
+    "PRIMARY_660": "#191629"
   },
   "background": {
     "blur": 0.6,
