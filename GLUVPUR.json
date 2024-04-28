@@ -10,7 +10,7 @@
   ],
   "semanticColors": {
     "HEADER_PRIMARY": ["#9b70ba"],
-    "HEADER_SECONDARY": ["#a16db5"],
+    "HEADER_SECONDARY": ["#fc0a0a"],
     "INTERACTIVE_NORMAL": ["#805694"],
     "INTERACTIVE_ACTIVE": ["#ab79c9"],
     "INTERACTIVE_MUTED": ["#55315e"],
@@ -31,7 +31,17 @@
     "CHANNEL_ICON": ["#5b366b"]
   },
   "rawColors": {
-    "PLUM_6": "#bf9bde"
+    "PLUM_6": "#bf9bde",
+    "PLUM_9": "#9a6fb3",
+    "PLUM_11": "#3f2c57",
+    "PLUM_17": "#1e1b30",
+    "PLUM_20": "#1d1c30",
+    "PLUM_22": "#8e5799",
+    "BRAND_260": "#251b36",
+    "PRIMARY_360": "#47354d",
+    "PRIMARY_400": "#2f2040",
+    "PRIMARY_500": "#27203d",
+    "PRIMARY_660": "#191629"
   },
   "background": {
     "blur": 0.6,
