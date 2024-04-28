@@ -19,7 +19,6 @@
     "TEXT_LINK": ["#997db8"],
     "BACKGROUND_PRIMARY": ["#191629"],
     "BACKGROUND_SECONDARY_ALT": ["#17101f"],
-    "BACKGROUND_MESSAGE_HOVER": ["#d40606"],
     "BACKGROUND_MODIFIER_HOVER": ["#271f33"],
     "BACKGROUND_SECONDARY": ["#251e36"],
     "BACKGROUND_MOBILE_SECONDARY": ["#1d1c30"],
@@ -33,7 +32,7 @@
   },
   "rawColors": {
     "PLUM_6": "#bf9bde",
-    "PLUM_9": "#fc0505",
+    "PLUM_9": "#9a6fb3",
     "PLUM_11": "#3f2c57",
     "PLUM_17": "#1e1b30",
     "PLUM_20": "#1d1c30",
