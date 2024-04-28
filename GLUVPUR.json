@@ -16,7 +16,7 @@
     "INTERACTIVE_MUTED": ["#55315e"],
     "TEXT_NORMAL": ["#9366ad"],
     "TEXT_MUTED": ["#9472b8"],
-    "TEXT_LINK": ["#a97db8"],
+    "TEXT_LINK": ["#c581d4"],
     "BACKGROUND_PRIMARY": ["#191629"],
     "BACKGROUND_SECONDARY_ALT": ["#17101f"],
     "BACKGROUND_MODIFIER_HOVER": ["#271f33"],
